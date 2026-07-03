@@ -1,2 +1,2 @@
-# DecodeLabs_Task1
+# DecodeLabs_Task
 Python internship project from DecodeLabs.
